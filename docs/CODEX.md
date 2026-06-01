@@ -5,7 +5,7 @@ Career-Ops supports Codex through the root `AGENTS.md` file.
 If your Codex client reads project instructions automatically, `AGENTS.md`
 is enough for routing and behavior. Codex should reuse the same checked-in
 mode files, templates, tracker flow, and scripts that already power the
-Claude workflow.
+Gemini workflow.
 
 ## Prerequisites
 
